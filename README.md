@@ -1,7 +1,7 @@
 
 ---
 
-# ** Q&A System**
+# Q&A System
 
 **An End-to-End Mistral + LangChain Project for an E-Learning Platform**
 
