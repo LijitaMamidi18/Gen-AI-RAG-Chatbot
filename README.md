@@ -36,8 +36,6 @@ The goal of the project is to **reduce the repetitive workload** on the human su
 | ------------------------- | -------------------------------------------------------------------------------------------- |
 | **`main.py`**             | The main Streamlit app that handles the front-end and integrates with backend logic.         |
 | **`langchain_helper.py`** | Contains LangChain pipeline logic for embedding, retrieval, and LLM calls.                   |
-| **`requirements.txt`**    | List of Python dependencies for reproducibility.                                             |
-| **`.env`**                | Stores sensitive credentials (Google API key).                                               |
-| **`faiss_index/`**        | Auto-generated directory containing the FAISS vector database after knowledge base creation. |
+ |
 
 
