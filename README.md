@@ -1,7 +1,7 @@
 
 ---
 
-# Q&A System
+# Gen AI RAG Q & A system
 
 **An End-to-End Mistral + LangChain Project for an E-Learning Platform**
 
